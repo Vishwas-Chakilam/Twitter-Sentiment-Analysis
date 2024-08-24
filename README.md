@@ -2,6 +2,15 @@
 
 Unlock the power of social media insights with **Twitter Sentiment Analysis**, a dynamic Python application that lets you dive into the world of Twitter to uncover what people are feeling! 🌎
 
+## Table of Contents
+
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+
 ## 🚀 Features
 
 - **Real-time Sentiment Analysis**: Instantly analyze tweets in real-time based on any keyword you choose and see whether people are feeling positive, negative, or neutral.
@@ -15,6 +24,14 @@ Get started quickly by ensuring you have the following:
 1. **Python 3.x**: Make sure you have Python installed.
 2. **Twitter Developer Account**: Grab your API keys by creating a Twitter Developer account.
 3. **Python Libraries**: Install the necessary libraries with a single command.
+4. **Tkinter**: Ensure that Tkinter is installed on your system. Tkinter is usually included with Python installations. If not, install it manually:
+   
+   - **Windows**: Tkinter is included with Python.
+   - **macOS**: It is included with Python. If needed, reinstall Python from the official Python website.
+   - **Linux**: Install Tkinter using your package manager, for example:
+     ```bash
+     sudo apt-get install python3-tk
+     ```
 
 ## 📦 Installation
 
